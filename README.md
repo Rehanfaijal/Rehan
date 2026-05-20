@@ -1,2 +1,0 @@
-# Rehan
- Javascript toturial
